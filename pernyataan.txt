@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 154183026
+Nama  : FRANSISKA AGUSTINA
+Kelas : TI2E
 
 Dengan ini menyatakan:
 
